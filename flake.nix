@@ -81,7 +81,7 @@
             # htmx, templ, tailwindcss (node package)
             templ
             htmx-lsp
-            nodejs
+            tailwindcss_4
           ];
 
           shellHook = ''
